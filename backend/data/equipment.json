@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1766087386212,
+    "name": "grinder",
+    "type": "Mixer",
+    "status": "Active",
+    "lastCleanedDate": "2025-12-24"
+  },
+  {
+    "id": 1766087406217,
+    "name": "drum",
+    "type": "Tank",
+    "status": "Inactive",
+    "lastCleanedDate": "2025-12-26"
+  }
+]
