@@ -18,8 +18,6 @@ A full-stack Equipment Tracking System to manage industrial assets, monitor stat
 - Responsive UI (mobile friendly)
 - Clean and modern UI
 
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
