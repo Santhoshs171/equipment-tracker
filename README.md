@@ -2,10 +2,6 @@
 
 A full-stack Equipment Tracking System to manage industrial assets, monitor status, and track maintenance efficiently.
 
----
-
-## 🚀 Live Demo
-👉[https://equipment-tracker-9qmm.vercel.app/]
 
 ---
 
