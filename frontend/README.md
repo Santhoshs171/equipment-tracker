@@ -24,22 +24,17 @@ A full-stack Equipment Tracking System to manage industrial assets, monitor stat
 - React.js
 - CSS (Glassmorphism UI)
 - Axios
-
 - Frontend code run:
-cd backend
-npm install
-node server.js
-- 
+   cd frontend,
+   npm start 
 
 ### Backend
 - Node.js
 - Express.js
 - JSON data storage (can be replaced with DB)
-
 - backend code run:
-cd backend
-npm install
-node server.js
+   cd backend,
+   node server.js
 
 ---
 
